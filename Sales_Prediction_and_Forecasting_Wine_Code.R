@@ -1,6 +1,6 @@
 
 #------------------------------------------------------------------
-# Sales Prediction and Forecasting
+# Sales Prediction and Forecasting - Wine Sales
 # Singh, Gurjeet
 #------------------------------------------------------------------
 
